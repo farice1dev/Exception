@@ -9,6 +9,7 @@ public class Lms0 {
 		lms.put(847,"Kiruba");
 		lms.put(596,"Venus");
 		lms.put(485,"Sabo");
+		lms.put(535,"Goobo");
 		
 	/*	lms.forEach((x,y)->System.out.println(x+" "+y));
 		lms.keySet().forEach(x->System.out.println (x));
